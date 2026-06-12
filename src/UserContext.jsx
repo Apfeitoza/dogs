@@ -46,10 +46,9 @@ export const UserStorage = ({ children }) => {
       setError(null);
       setLoading(false);
       setLogin(false);
-      window.localStorage.removeItem('token');
-      navigate('/login');
+      window.localStorage.removeItem('token');      
     },
-    [navigate],
+    [],
   );
 
   React.useEffect(() => {
