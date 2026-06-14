@@ -41,7 +41,7 @@ A conclusão deste projeto marcou pontos cruciais na minha evolução como desen
 
 1. Clone o repositório:
 ```bash
-    git clone [https://github.com/SEU_USUARIO/dogs-origamid.git](https://github.com/SEU_USUARIO/dogs-origamid.git)
+    git clone [https://github.com/SEU_USUARIO/dogs-origamid.git](https://github.com/Apfeitoza/dogs.git)
 ```
 2. Instale as dependências:
 ```bash
