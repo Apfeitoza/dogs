@@ -19,8 +19,6 @@ const UserHeaderNav = () => {
     setMobileMenu(false);
   }, [pathname]);
 
-  console.log(mobileMenu);
-
   function handleLogout() {
     userLogout();
     navigate('/login');
