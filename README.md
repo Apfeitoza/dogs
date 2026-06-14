@@ -10,7 +10,7 @@ Este é um projeto desenvolvido estritamente para **fins de estudo, acompanhamen
 
 Caso você esteja avaliando minhas habilidades em criar **projetos totalmente autorais e independentes** (onde tomei 100% das decisões de lógica, design e escopo), convido você a visitar os seguintes repositórios:
 
-- [Nutri Caren Midena 🍏]((https://github.com/Apfeitoza/nutri-landing-page) - Landing page e sistema para uma nutricionista, utilizando técnicas de SASS e biblioteca Bootstrap, assim como design próprio no Figma.
+- [Nutri Caren Midena 🍏](https://github.com/Apfeitoza/nutri-landing-page) - Landing page e sistema para uma nutricionista, utilizando técnicas de SASS e biblioteca Bootstrap, assim como design próprio no Figma.
 - [My Necessaire 💄](https://github.com/Apfeitoza/my_necessaire) - Aplicação simples de consolidação de aprendizado, voltada ao segmento de estética e maquiagem.
 - [Chapéu Seletor 🧙‍♂️](https://github.com/Apfeitoza/chapeu_seletor) - Um quiz interativo integrando dados da HP-API _(Em desenvolvimento)_.
 
